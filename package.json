@@ -1,5 +1,5 @@
 {
-  "name": "@wojtekmaj/react-daterange-picker",
+  "name": "@voidname201/react-daterange-picker",
   "version": "3.4.0",
   "description": "A date range picker for your React app.",
   "main": "dist/entry.js",
@@ -12,7 +12,6 @@
     "copy-styles": "node ./copy-styles.js",
     "jest": "jest",
     "lint": "eslint sample/ src/ test/ --ext .jsx,.js",
-    "postinstall": "husky install",
     "prepack": "yarn clean && yarn build",
     "test": "yarn lint && yarn jest"
   },
@@ -72,8 +71,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/wojtekmaj/react-daterange-picker.git"
+    "url": "https://github.com/voidname201/react-daterange-picker.git"
   },
-  "funding": "https://github.com/wojtekmaj/react-daterange-picker?sponsor=1",
-  "packageManager": "yarn@3.1.0"
+  "funding": "https://github.com/voidname201/react-daterange-picker?sponsor=1"
 }
