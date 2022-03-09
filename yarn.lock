@@ -1859,6 +1859,38 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@voidname201/react-daterange-picker@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "@voidname201/react-daterange-picker@workspace:."
+  dependencies:
+    "@babel/cli": ^7.15.0
+    "@babel/core": ^7.15.0
+    "@babel/preset-env": ^7.15.0
+    "@babel/preset-react": ^7.14.0
+    "@wojtekmaj/enzyme-adapter-react-17": ^0.6.0
+    enzyme: ^3.10.0
+    eslint: ^8.5.0
+    eslint-config-wojtekmaj: ^0.6.5
+    husky: ^7.0.0
+    jest: ^27.0.0
+    less: ^4.0.0
+    make-event-props: ^1.1.0
+    merge-class-names: ^1.1.1
+    prettier: ^2.5.0
+    pretty-quick: ^3.1.0
+    prop-types: ^15.6.0
+    react: ^17.0.0
+    react-calendar: ^3.7.0
+    react-date-picker: ^8.4.0
+    react-dom: ^17.0.0
+    react-fit: ^1.4.0
+    rimraf: ^3.0.0
+  peerDependencies:
+    react: ^16.3.0 || ^17.0.0 || ^18.0.0
+    react-dom: ^16.3.0 || ^17.0.0 || ^18.0.0
+  languageName: unknown
+  linkType: soft
+
 "@wojtekmaj/date-utils@npm:^1.0.2, @wojtekmaj/date-utils@npm:^1.0.3":
   version: 1.0.3
   resolution: "@wojtekmaj/date-utils@npm:1.0.3"
@@ -1897,38 +1929,6 @@ __metadata:
   checksum: 4b2f5ff155c600137342c0ee19512b27d469fef98c20fee85785014e71d21b75cab48f93c8004548bd86410395e7577265acfa873e7a2d863c73291734c6d652
   languageName: node
   linkType: hard
-
-"@wojtekmaj/react-daterange-picker@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "@wojtekmaj/react-daterange-picker@workspace:."
-  dependencies:
-    "@babel/cli": ^7.15.0
-    "@babel/core": ^7.15.0
-    "@babel/preset-env": ^7.15.0
-    "@babel/preset-react": ^7.14.0
-    "@wojtekmaj/enzyme-adapter-react-17": ^0.6.0
-    enzyme: ^3.10.0
-    eslint: ^8.5.0
-    eslint-config-wojtekmaj: ^0.6.5
-    husky: ^7.0.0
-    jest: ^27.0.0
-    less: ^4.0.0
-    make-event-props: ^1.1.0
-    merge-class-names: ^1.1.1
-    prettier: ^2.5.0
-    pretty-quick: ^3.1.0
-    prop-types: ^15.6.0
-    react: ^17.0.0
-    react-calendar: ^3.7.0
-    react-date-picker: ^8.4.0
-    react-dom: ^17.0.0
-    react-fit: ^1.4.0
-    rimraf: ^3.0.0
-  peerDependencies:
-    react: ^16.3.0 || ^17.0.0 || ^18.0.0
-    react-dom: ^16.3.0 || ^17.0.0 || ^18.0.0
-  languageName: unknown
-  linkType: soft
 
 "abab@npm:^2.0.3, abab@npm:^2.0.5":
   version: 2.0.5
